@@ -1,22 +1,37 @@
+body {
+    background-color:#ddd;
+}
 #bio-image{
-    height: 200px;
+    height: 500px;
     width: 200px;
-    width: 30%;
+    
 }
-.name1 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+.navbar{
+    float: right;
+}
+.name {
+    margin: 0%;
+    float: left;
+    text-align: left;
     background-color: #4aaaa5;
-    width: 30%;
-    margin: 40px;
-}
-.about {
-    float: right;
-    margin: 0;
-}
-.portfolio{
-    float: right;
-}
-.contact {
-    float: right;
-}
+    color: #fff;
+    padding: 7px;
 
+}
+.about-me1 {
+   width: 50%;
+   float: right;
+    margin: 13px;
+}
+a {
+    color: #777;
+    text-decoration: none;
+}
+.container {
+    background-color: #fff;
+    width: 80%;
+    margin: 28px;
+}
+.about-me{
+    color: #4aaaa5;
+}
