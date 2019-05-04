@@ -4,5 +4,19 @@
     width: 30%;
 }
 .name1 {
-    font-family: 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #4aaaa5;
+    width: 30%;
+    margin: 40px;
 }
+.about {
+    float: right;
+    margin: 0;
+}
+.portfolio{
+    float: right;
+}
+.contact {
+    float: right;
+}
+
