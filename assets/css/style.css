@@ -11,7 +11,7 @@ body {
     height: 200px;
     width: 200px;
     float: left;
-    margin-right: 12px;
+    margin-right: 20px;
     margin-left: 20px;
     margin-top: 20px;
 }
@@ -41,7 +41,9 @@ a {
 }
 .about-me{
     color: #4aaaa5;
-    margin:20px;
+    margin-top: 2px;
+    margin-bottom: 0px;
+    margin-left: 6px;
     padding: 20px;
 }
 
@@ -52,6 +54,7 @@ footer {
     height: 2.5rem; 
     text-align: center;
     background-color: #777;
+    color: #fff;
 }
 
 header {
@@ -66,5 +69,31 @@ header {
     margin-top: 20px;
 }
 hr {
-    width: 90;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.contact{
+    color: #4aaaa5;
+    margin-top: 2px;
+    margin-bottom: 0px;
+    margin-left: 6px;
+    padding: 20px;
+}
+.form {
+    width: 0 auto;
+    float: inherit;
+     margin: 20px;
+     margin-top: 24px; 
+}
+input {
+    width: 100%;
+}
+textarea {
+    width: 100%
+}
+button {
+    background-color: #4aaaa5;
+    color: #fff;
+    margin-left: 20px;
+    margin-bottom: 20px;
 }
