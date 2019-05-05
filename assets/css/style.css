@@ -97,3 +97,14 @@ button {
     margin-left: 20px;
     margin-bottom: 20px;
 }
+.portfolio-heading {
+    color: #4aaaa5;
+    margin-top: 2px;
+    margin-bottom: 0px;
+    margin-left: 6px;
+    padding: 20px;
+}
+.portfolio-img {
+    float: inherit;
+    margin: 20px;
+}
