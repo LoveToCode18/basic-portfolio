@@ -15,7 +15,6 @@ body {
     margin-left: 20px;
     margin-top: 20px;
 }
-
 .name {
     margin-left: 204px;
     float: left;
@@ -46,7 +45,6 @@ a {
     margin-left: 6px;
     padding: 20px;
 }
-
 footer {
     position: absolute;
     bottom: 0;
@@ -56,7 +54,6 @@ footer {
     background-color: #777;
     color: #fff;
 }
-
 header {
     background-color:  #ffffff;
     width: 100%;
