@@ -109,6 +109,9 @@ background-color: #4aaaa5;
 color: #fff;
 margin-left: 20px;
 margin-bottom: 20px;
+padding: 8px;
+width: 100px;
+cursor: pointer;
 }
 .portfolio-heading {
 color: #4aaaa5;
@@ -128,6 +131,7 @@ float: inherit;
 background-size: 100%;
 margin: 2px;
 transition:0.5s;
+cursor: pointer;
 }
 .box{
     position: relative;
